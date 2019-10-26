@@ -4,7 +4,7 @@
 - PyAudio
 - SpeechRecognition
 
-##### To Install Libraries:
+#### To Install Libraries:
 Open Anaconda Prompt and Write These Two Commands:
 1. pip install PyAudio
 2. pip install SpeechRecognition
